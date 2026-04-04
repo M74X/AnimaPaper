@@ -16,11 +16,13 @@ Master index for research papers and technical documentation across the AnimaCor
 | 00-animalab/02 | | "AnimaLab 2: The Importance of Security in Educational Processes" | Draft | - |
 | 01-animacore/00 | | "AnimaCore 0: Challenges of Programming a SaaS with an Inductive Model" | Draft | - |
 | 02-paechakas/00 | | "Placeholder" | Draft | - |
-| 03-mmvm | | "MMVM — Meta Multicognition Virtual Machine" | Future | - |
+| 03-codeshelter/00 | | "CodeShelter 0: placeholder" | Draft | - |
+| 0N-mmvm | | "MMVM — Meta Multicognition Virtual Machine" | Future | - |
 
 ## Repository Structure
 
 - `00-animalab/`: Research regarding the pedagogical and procedural learning framework.
 - `01-animacore/`: Technical documentation and challenges regarding the core engine and SaaS implementation.
 - `02-paechakas/`: Case studies and operational evidence from the institutional management platform.
-- `03-mmvm/`: Future research on Meta Multicognition Virtual Machines.
+- `03-codeshelter/`: Research regarding the CodeShelter platform.
+- `0N-mmvm/`: Future research on Meta Multicognition Virtual Machines.
