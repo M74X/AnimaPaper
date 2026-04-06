@@ -7,6 +7,7 @@ tags: [benchmarks, protocol-adherence, multi-model, mistral, paper-1.1]
 status: raw
 target_paper: animalab-paper-1.1
 related: [obs-animalab-001]
+model: devstral-2 (mistral-vibe-cli-latest)
 ---
 
 ## Observation
