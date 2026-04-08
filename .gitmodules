@@ -1,0 +1,3 @@
+[submodule "annotations"]
+	path = annotations
+	url = git@github.com:M74X/AnimaNotes.git
